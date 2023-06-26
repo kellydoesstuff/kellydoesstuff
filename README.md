@@ -1,5 +1,10 @@
-### Hi there 👋
+# hey there! 👩‍🌾
 
+i'm kelly, VRC team 69955X's programmer.
+
+i code primarily in:
+- C++
+- Python
 <!--
 **kellydoesstuff/kellydoesstuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
