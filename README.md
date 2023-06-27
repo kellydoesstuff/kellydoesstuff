@@ -1,6 +1,6 @@
 ## Hey there! 👩‍🌾
 
-I'm Kelly, VRC team 69955X's programmer.
+### I'm Kelly, VRC team 69955X's programmer.
 
 I code primarily in:
 - C++
@@ -11,6 +11,8 @@ I also have experience in:
 - HTML & CSS
 - Java
 - Javascript
+
+Checkout my [personal website](https://kellydoesstuff.netlify.app/)!
 <!--
 **kellydoesstuff/kellydoesstuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
