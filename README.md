@@ -12,7 +12,7 @@ I also have experience in:
 - Java
 - Javascript
 
-Checkout my [personal website](https://kellydoesstuff.netlify.app/)!
+### Check out my [personal website](https://kellydoesstuff.netlify.app/)!
 <!--
 **kellydoesstuff/kellydoesstuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
